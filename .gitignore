@@ -72,7 +72,6 @@ web-build/
 .turbo
 build/**
 
-
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -80,3 +79,5 @@ build/**
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+auth_config.json
